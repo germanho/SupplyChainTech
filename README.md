@@ -1,6 +1,5 @@
 # SupplyChainTech
 This is the repo for the unit of supply chain technology and digitalisation python workshop.
-Materials for week 1 practical session
 
 To get started:
 
