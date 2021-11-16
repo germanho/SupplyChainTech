@@ -3,7 +3,7 @@ This is the repo for the unit of supply chain technology and digitalisation pyth
 
 To get started:
 
-Open this [link](https://hub.gke2.mybinder.org/user/germanho-supplychaintech-8mgmabbh/lab) in a new tab/window
+Open this [link](https://mybinder.org/v2/gh/germanho/SupplyChainTech/HEAD) in a new tab/window
 Wait for JupyterLab to load in your browser
 Go through the notebooks (Basic => Advanced)
 Do not worry if you can't do Advanced!
